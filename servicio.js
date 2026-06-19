@@ -1,6 +1,6 @@
 class Servicio {
   imprimir() {
-    console.log("Hola");
+    console.log("Hola mas rapido");
   }
 }
 console.log("******log de datos*")
