@@ -1,5 +1,5 @@
 class Servicio {
-  imprimir() {
+  imprimirMejor() {
     console.log("Hola mas rapido");
   }
     sumar( a,b) {
